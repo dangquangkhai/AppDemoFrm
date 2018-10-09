@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Demo\AppDemoFrm\obj\x86\Debug\AppDemoFrm.Properties.Resources.resources
+C:\Users\Admin\Desktop\Demo\AppDemoFrm\obj\x86\Debug\AppDemoFrm.sFrmMain.resources
+C:\Users\Admin\Desktop\Demo\AppDemoFrm\obj\x86\Debug\AppDemoFrm.csproj.GenerateResource.Cache
